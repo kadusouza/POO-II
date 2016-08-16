@@ -8,9 +8,11 @@ https://github.com/kadusouza/POO-II
 ---------------------------------------------------------------------------------
 
 ##Integrantes do projeto:
--Carlos Eduardo A. C. de Souza   | RA: 165691 | E-Mail: kadu23977@gmail.com          / GitHub: kadusouza
--Thomaz F. Ribeiro de Faria      | RA: 177689 | E-mail: thomaz10ribeiro@hotmail.com / GitHub: thomazfaria
--Murilo Jubertoni Tin 	          | RA: 174977 | E-mail: murilo.tin@gmail.com       / GitHub: murilojt
+- Carlos Eduardo A. C. de Souza   | RA: 165691 | E-Mail: kadu23977@gmail.com          / GitHub: kadusouza
+
+- Thomaz F. Ribeiro de Faria      | RA: 177689 | E-mail: thomaz10ribeiro@hotmail.com / GitHub: thomazfaria
+
+- Murilo Jubertoni Tin 	          | RA: 174977 | E-mail: murilo.tin@gmail.com       / GitHub: murilojt
 
 ---------------------------------------------------------------------------------
 
