@@ -57,3 +57,7 @@ Motivo do cancelamento do registro de filiação.
 ##Formato de disponibilização dos dados:  
 .csv
 
+---------------------------------------------------------------------------------
+##exemplo grafico de uma consulta
+
+![GitHub Logo](/images/logo.png)
