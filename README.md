@@ -60,4 +60,4 @@ Motivo do cancelamento do registro de filiação.
 ---------------------------------------------------------------------------------
 ##exemplo grafico de uma consulta
 
-![GitHub Logo](/images/logo.png)
+![grafico](https://github.com/kadusouza/POO-II/blob/master/Grafico.png)
