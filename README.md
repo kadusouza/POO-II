@@ -16,7 +16,8 @@ https://github.com/kadusouza/POO-II
 
 ---------------------------------------------------------------------------------
 
-Motivação: Acreditamos que o projeto será interessante, já que o ano em que nos encontramos é um ano de eleição, sendo assim poderíamos levantar dados interessantes sobre as pessoas filiadas aos partidos políticos no estado de São Paulo.
+##Motivação: 
+Acreditamos que o projeto será interessante, já que o ano em que nos encontramos é um ano de eleição, sendo assim poderíamos levantar dados interessantes sobre as pessoas filiadas aos partidos políticos no estado de São Paulo.
 
 ---------------------------------------------------------------------------------
 
