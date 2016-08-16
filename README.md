@@ -8,9 +8,9 @@ https://github.com/kadusouza/POO-II
 ---------------------------------------------------------------------------------
 
 ##Integrantes do projeto:
-*Carlos Eduardo A. C. de Souza   | RA: 165691 | E-Mail: kadu23977@gmail.com          / GitHub: kadusouza
-*Thomaz F. Ribeiro de Faria      | RA: 177689 | E-mail: thomaz10ribeiro@hotmail.com / GitHub: thomazfaria
-*Murilo Jubertoni Tin 	          | RA: 174977 | E-mail: murilo.tin@gmail.com       / GitHub: murilojt
+-Carlos Eduardo A. C. de Souza   | RA: 165691 | E-Mail: kadu23977@gmail.com          / GitHub: kadusouza
+-Thomaz F. Ribeiro de Faria      | RA: 177689 | E-mail: thomaz10ribeiro@hotmail.com / GitHub: thomazfaria
+-Murilo Jubertoni Tin 	          | RA: 174977 | E-mail: murilo.tin@gmail.com       / GitHub: murilojt
 
 ---------------------------------------------------------------------------------
 
@@ -18,11 +18,12 @@ Motivação: Acreditamos que o projeto será interessante, já que o ano em que 
 
 ---------------------------------------------------------------------------------
 
-Fonte: http://dados.gov.br/dataset/filiados-partidos-politicos
+##Fonte:
+http://dados.gov.br/dataset/filiados-partidos-politicos
 
 ---------------------------------------------------------------------------------
 
-Descrição dos dados: Os dados a serem apresentados serão: 
+##Descrição dos dados: Os dados a serem apresentados serão: 
 
 Data da extração das informações do banco de dados;
 Hora da extração das informações do banco de dados;
@@ -45,5 +46,11 @@ Data da regularização do registro de filiação;
 Motivo do cancelamento do registro de filiação.
 
 ---------------------------------------------------------------------------------
+##Volume de dados:
+127,418MB
 
-Formato de disponibilização dos dados:  .csv
+---------------------------------------------------------------------------------
+
+##Formato de disponibilização dos dados:  
+.csv
+
